@@ -1,5 +1,0 @@
-<Simulation version="4.2.4">
-   <XMLScript Type="XMLScript">Simulation/CellCrawlling2D.xml</XMLScript>
-   <PythonScript Type="PythonScript">Simulation/CellCrawlling2D.py</PythonScript>
-   <Resource Type="Python">Simulation/CellCrawlling2DSteppables.py</Resource>
-</Simulation>
